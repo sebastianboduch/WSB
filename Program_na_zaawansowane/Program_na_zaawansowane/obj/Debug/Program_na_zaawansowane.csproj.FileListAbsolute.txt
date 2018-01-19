@@ -1,0 +1,9 @@
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\bin\Debug\Program_na_zaawansowane.exe.config
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\bin\Debug\Program_na_zaawansowane.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\bin\Debug\Program_na_zaawansowane.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\obj\Debug\Program_na_zaawansowane.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\obj\Debug\Program_na_zaawansowane.Form1.resources
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\obj\Debug\Program_na_zaawansowane.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\obj\Debug\Program_na_zaawansowane.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\obj\Debug\Program_na_zaawansowane.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Program_na_zaawansowane\Program_na_zaawansowane\obj\Debug\Program_na_zaawansowane.pdb
