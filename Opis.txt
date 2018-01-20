@@ -1,0 +1,14 @@
+Program ³¹czy siê poprzez USB z mikrokontorlerem Arduino UNO.
+
+Do mikrokonrolera podpiête s¹ 3 rzeczy:
+-czujnik temp. i wilgotnoœci DHT22
+-czujnik zbli¿eniowey IR
+-wyœwietlacz
+
+
+Mo¿liwoœci programu:
+1. Program na ¿ywo wyœwietla temperaturê i wilgotnoœæ (czas odœwie¿ania 150ms)
+2. Po prawej stronie wyœwietlamy stan czujnika IR (zielony - coœ jest zbli¿one, czerwony - oddalone)
+3. Mo¿na wys³aæ wiadomoœæ do mikrokontrolera, a ten wyœwietli to na wyœwietlaczu.
+
+Na zajêcia przyniosê mikrokontroler wraz z niezbêdnym sprzêtem.
